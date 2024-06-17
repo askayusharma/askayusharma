@@ -2,7 +2,7 @@
 - 👀 I’m interested in GSoC
 - 🌱 I’m currently learning Data Science
 - 💞️ I’m looking to collaborate on Open Source Project
-- 📫 How to reach me https://www.linkedin.com/in/ayusharma123
+- 📫 How to reach me (https://www.linkedin.com/in/askayusharma/)
 
 <!---
 askayusharma/askayusharma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
